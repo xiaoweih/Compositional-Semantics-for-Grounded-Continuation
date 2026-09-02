@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this artefact, please cite the accompanying paper."
+title: "What Still Stands? A Compositional Semantics for Grounded Continuation in LLM Conversations: Reproducibility Artefact"
+type: software
+authors:
+  - family-names: He
+    given-names: Qisong
+  - family-names: Wu
+    given-names: Changshun
+  - family-names: Dong
+    given-names: Yi
+  - family-names: Huang
+    given-names: Xiaowei
+version: 0.1.0
+date-released: 2026-09-02
